@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM arm64v8/debian:8
 MAINTAINER "Konrad Kleine"
 
 
